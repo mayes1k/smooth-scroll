@@ -40,7 +40,7 @@ your-project/
 You can also load the file using jsDelivr:
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/USERNAME/REPOSITORY/smooth-scroll.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mayes1k/smooth-scroll/smooth-scroll.js"></script>
 ```
 
 Replace USERNAME and REPOSITORY with your GitHub username and repository name.
